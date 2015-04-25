@@ -7,14 +7,14 @@ The tidy data was created from the UCI Human Recognition Activity Using Smartpho
 The measured variables refer to accelerometer and gyroscope measurements from the smartphone (Samsung Galaxy S II). These measurements were saved in a number of text files.
 
 ###The data files used:
-*features.txt: contains the names of 561 variables
-*activity_labels: contains the names and IDs for the six activities
-*x_train.txt: 7352 observations of the 561 features, for 70% (i.e 21) of the 30 volunteers.
-*subject_train.txt: A vector of 7352 integers, denoting the ID of the volunteer related to each of the observations in x_train.txt
-*y_train.txt: A vector of 7352 integers, denoting the ID of the activity related to each of the observations in x_train.txt
-*X_test.txt: 2947 observations of the 561 features, for 9 of the 30 volunteers.
-*subject_test.txt: A vector of 2947 integers, denoting the ID of the volunteer related to each of the observations in X_test.txt.
-*y_test.txt: A vector of 2947 integers, denoting the ID of the activity related to each of the observations in X_test.txt.
+* features.txt: contains the names of 561 variables
+* activity_labels: contains the names and IDs for the six activities
+* x_train.txt: 7352 observations of the 561 features, for 70% (i.e 21) of the 30 volunteers.
+* subject_train.txt: A vector of 7352 integers, denoting the ID of the volunteer related to each of the observations in x_train.txt
+* y_train.txt: A vector of 7352 integers, denoting the ID of the activity related to each of the observations in x_train.txt
+* X_test.txt: 2947 observations of the 561 features, for 9 of the 30 volunteers.
+* subject_test.txt: A vector of 2947 integers, denoting the ID of the volunteer related to each of the observations in X_test.txt.
+* y_test.txt: A vector of 2947 integers, denoting the ID of the activity related to each of the observations in X_test.txt.
 
 More information about the files and the measured variables can be found in the README.txt and features_info.txt of the original data set obtained from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
